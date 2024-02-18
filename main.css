@@ -1,0 +1,64 @@
+body{
+font-size:18px;
+margin-left: 40px;
+margin-right: 40px;
+a:link {color: #808080};
+a:visited {color: #800000};	
+}
+#one{
+	background: #add8e6;
+}
+#two{
+	background: #ffffcc;	
+}
+#three{
+background: #ccffcc;
+}
+.web{
+	font-weight: bold;
+}
+
+#spisokindex{
+	list-style-type: square;
+}
+#spisokindextwo{
+	list-style-type: upper-roman;
+}
+#redheader{
+	color:#bb0031;
+	text-align: center;
+}
+#greenheader{
+	color:#008000;
+}
+#blueheader{
+	color:#0000ff;
+}
+#site{
+	font-style: italic;
+}
+#sp2{
+	list-style-type: binary;
+}
+#img1{
+vertical-align: text-top;
+}
+#home{
+	text-align: center;
+}
+#gold{
+	color:#89551b;
+}
+#cyan{
+	color:#006666;
+	text-align: center;
+}
+#lightgreen{
+color:#0bcc76;
+}
+#magenta{
+	color:#910d95;
+}
+#sp3{
+	list-style-type: circle;
+}
